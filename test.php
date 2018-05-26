@@ -1,17 +1,7 @@
 <?php
 
+echo 'ys';
 
-echo 11;
-
-
-echo 22;
-
-
-echo 333;
-
-echo 444;
-
-
-echo 666;
+echo 111;
 
 ?>
